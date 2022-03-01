@@ -1,0 +1,7 @@
+Open Know-How is all about sharing knowledge on how to make things. With dozens of open hardware organisations and over 80 content-hosting platforms and thousands of designers sharing open hardware designs, there is little consistency as to how know-how is documented or shared. Makers struggle to locate what they need, not knowing which platform to find it, what the intended use is and therefore struggle to adapt designs. Whilst the knowledge is ‘open’, it is not freely flowing in the spirit that open-ness suggests.
+
+The objective of this specification is to improve the open-ness of know-how for making hardware by improving the discoverability, portability and translatability of knowledge.
+
+Knowledge, unlike data or information, is tacit. Documentation and representation of knowledge can take different forms for different types of hardware and audience, and specifying how knowledge is represented can limit innovation and usability in different contexts. Therefore, this specification introduces a maturity model for increasing specifications for knowledge. The intent is that a designer or platform can choose to adopt this specification appropriately, rather than an over-prescriptive approach that deters adoption. Later iterations of this standard will include specifications for different representations of knowledge, but at this stage the scope is limited to supporting the discoverability of open hardware regardless of where it resides on the World Wide Web.
+
+https://barbal.co/the-open-know-how-manifest-specification-version-1-0/
