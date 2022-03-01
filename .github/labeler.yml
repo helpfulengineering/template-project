@@ -1,0 +1,8 @@
+---
+# Add 'okh' label to any change to an Open Know How directory
+okh:
+  - 'okh/*'
+
+# Add 'okw' label to any change to an Open Know Where directory
+okw:
+  - 'okw/*'
