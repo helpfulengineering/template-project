@@ -1,0 +1,4 @@
+site_name: Open Know How
+nav:
+    - 'index.md'
+    - 'about.md'
